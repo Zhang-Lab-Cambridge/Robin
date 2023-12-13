@@ -14,4 +14,6 @@ All functions are commented with a general description and each variable in/out 
 
 When updating anything, submit as a pull request.
 
-I'm very muhc in the process of reorganising this, and there will be a lot of changes. Please DO NOT EDIT until I am done basically :)
+I'm very much in the process of reorganising this, and there will be a lot of changes. Please DO NOT EDIT until I am done basically :)
+
+Using test_tkinter currently will allow you to look at photocurrent traces, if something goes wrong let me know
