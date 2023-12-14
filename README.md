@@ -1,3 +1,5 @@
+#Robin's Code (some of it)
+
 Assembled code for experimental data analysis and figure making. The idea is that this is organised, and organised in such a manner that it is: a) usable by other people b) makes sense, can be edited easily down the line c) has some crude version of a user interface for ease of use
 
 This is set up as essentially a python library. If a file is created in the main folder, then 'ras' functions as a python module, and the files within it have callable functions in. For example, just as one can say:
